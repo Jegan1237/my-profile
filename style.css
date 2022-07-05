@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: aliceblue;
+}
+#name{
+    text-align:left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    transform: translate(30px,15px);
+    background-color: tomato;
+    font-size: xx-large;    
+}
+#prof{
+    text-align: center;
+    font-size: xx-large;
+    text-shadow: yellow;
+}
+header{
+    padding: 20px;
+    background-color: tomato;
+}
+nav{
+    background-color: tomato;
+    text-align: center;
+}
+a{
+    background-color: tomato;
+    border: 1px solid yellow;
+    color: aqua;
+    font-style: bold;
+}
+#profession{
+    background-color: tomato;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aqua;
+}
+#myself{
+    font-size: xx-large;
+    color: chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#achieve{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: yellow;
+}
+
